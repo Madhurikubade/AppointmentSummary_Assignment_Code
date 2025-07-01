@@ -1,0 +1,25 @@
+{
+  "Prefix": "/api/appointment-summmary-assignment/",
+  "Server": {
+    "Host": "localhost",
+    "Port": "3004"
+  },
+  "MysqlConf": {
+    "Username": "root",
+    "Password": "Admin@123",
+    "Net": "tcp",
+    "Address": "127.0.0.1:3306",
+    "DatabaseName": "AppointmentSummary_Assignment",
+    "AllowNativePasswords": true,
+    "ParseTime": true,
+    "MaxConnections": 25,
+    "MaxIdleTimeMinutes": 2
+  },
+  "WorkerPoolConf": {
+    "MaxWorker": 50,
+    "BufferSize": 100
+  }
+}
+
+
+
