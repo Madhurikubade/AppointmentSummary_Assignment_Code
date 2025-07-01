@@ -5,8 +5,8 @@
     "Port": "3004"
   },
   "MysqlConf": {
-    "Username": "root",
-    "Password": "Admin@123",
+    "Username": "",
+    "Password": "",
     "Net": "tcp",
     "Address": "127.0.0.1:3306",
     "DatabaseName": "AppointmentSummary_Assignment",
